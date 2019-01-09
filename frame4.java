@@ -1,4 +1,8 @@
 class First
 {
-	void f();
+	void f()
+	{
+		int x = 0;
+	}
+	
 }
