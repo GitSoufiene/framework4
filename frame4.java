@@ -1,4 +1,4 @@
 class First
 {
-	
+	void f();
 }
